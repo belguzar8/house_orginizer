@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CollectArea
+  - pick
+  - WorkArea
+  - roll
+  - NewCollectArea
+  - rolls
+  - door
+  - carpet
+  - character
+  - endroll
+  - notdoor
+  - house
+  - HouseArea
+  - trash
+  - red
+  - yellow
+  - BreakPointArea
+  - BaseCollectArea
+  - MachineCollectArea
+  - MachineGivingArea
+  - ExitTrigger
+  - SortCounter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - Red
+  - Blue
+  - Orange
+  - Green
+  - Yellow
+  - Purple
+  - Bussy
+  - White
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: counter
+    uniqueID: 3955893899
+    locked: 0
